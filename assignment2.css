@@ -1,0 +1,35 @@
+#main{
+    display: inline;
+}
+#temp{
+    padding:30px;
+
+}
+
+#temp1{
+    color: darkorange;
+}
+.mycarousel{
+    margin-top: 5px;
+}
+.row r1,{
+    margin-top: 20px;
+}
+.carousel-caption{
+ color: floralwhite;
+}
+.card{
+    height: 100%;
+}
+h2{
+     color: darkblue;
+     margin:25px 0px;
+
+ }
+ #footer-main{
+     margin-top: 15px;
+     background: #222;
+     color: white;
+     font-size:1rem;
+     padding: 2.5rem 0;
+ }
